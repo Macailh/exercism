@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="41574c38-1be7-4ae9-92e9-ec2ff318fc2c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrabble-score/.exercism/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrabble-score/.exercism/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrabble-score/.gradle/7.5.1/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrabble-score/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrabble-score/.gradle/7.5.1/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrabble-score/.gradle/7.5.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrabble-score/.gradle/7.5.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrabble-score/.gradle/7.5.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrabble-score/.gradle/7.5.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrabble-score/.gradle/7.5.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrabble-score/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrabble-score/.gradle/7.5.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrabble-score/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrabble-score/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrabble-score/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrabble-score/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrabble-score/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrabble-score/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrabble-score/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrabble-score/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrabble-score/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrabble-score/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrabble-score/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrabble-score/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrabble-score/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrabble-score/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrabble-score/build/classes/java/main/Scrabble.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrabble-score/build/classes/java/test/ScrabbleScoreTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrabble-score/build/reports/tests/test/classes/ScrabbleScoreTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrabble-score/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrabble-score/build/reports/tests/test/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrabble-score/build/reports/tests/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrabble-score/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrabble-score/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrabble-score/build/test-results/test/TEST-ScrabbleScoreTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrabble-score/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrabble-score/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrabble-score/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrabble-score/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrabble-score/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrabble-score/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrabble-score/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrabble-score/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrabble-score/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrabble-score/src/main/java/Scrabble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrabble-score/src/test/java/ScrabbleScoreTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secret-handshake/.exercism/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secret-handshake/.exercism/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secret-handshake/.gradle/7.5.1/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secret-handshake/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secret-handshake/.gradle/7.5.1/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secret-handshake/.gradle/7.5.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secret-handshake/.gradle/7.5.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secret-handshake/.gradle/7.5.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secret-handshake/.gradle/7.5.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secret-handshake/.gradle/7.5.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secret-handshake/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secret-handshake/.gradle/7.5.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secret-handshake/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secret-handshake/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secret-handshake/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secret-handshake/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secret-handshake/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secret-handshake/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secret-handshake/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secret-handshake/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secret-handshake/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secret-handshake/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secret-handshake/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secret-handshake/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secret-handshake/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secret-handshake/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secret-handshake/build/classes/java/main/HandshakeCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secret-handshake/build/classes/java/main/Signal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secret-handshake/build/classes/java/test/HandshakeCalculatorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secret-handshake/build/reports/tests/test/classes/HandshakeCalculatorTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secret-handshake/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secret-handshake/build/reports/tests/test/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secret-handshake/build/reports/tests/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secret-handshake/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secret-handshake/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secret-handshake/build/test-results/test/TEST-HandshakeCalculatorTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secret-handshake/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secret-handshake/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secret-handshake/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secret-handshake/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secret-handshake/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secret-handshake/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secret-handshake/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secret-handshake/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secret-handshake/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secret-handshake/src/main/java/HandshakeCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secret-handshake/src/main/java/Signal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secret-handshake/src/test/java/HandshakeCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space-age/.exercism/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space-age/.exercism/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space-age/.gradle/7.5.1/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space-age/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space-age/.gradle/7.5.1/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space-age/.gradle/7.5.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space-age/.gradle/7.5.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space-age/.gradle/7.5.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space-age/.gradle/7.5.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space-age/.gradle/7.5.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space-age/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space-age/.gradle/7.5.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space-age/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space-age/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space-age/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space-age/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space-age/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space-age/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space-age/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space-age/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space-age/build/classes/java/main/SpaceAge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space-age/build/classes/java/test/SpaceAgeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space-age/build/reports/tests/test/classes/SpaceAgeTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space-age/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space-age/build/reports/tests/test/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space-age/build/reports/tests/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space-age/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space-age/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space-age/build/test-results/test/TEST-SpaceAgeTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space-age/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space-age/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space-age/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space-age/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space-age/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space-age/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space-age/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space-age/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space-age/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space-age/src/main/java/SpaceAge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../space-age/src/test/java/SpaceAgeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squeaky-clean/.exercism/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squeaky-clean/.exercism/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squeaky-clean/.gradle/7.5.1/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squeaky-clean/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squeaky-clean/.gradle/7.5.1/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squeaky-clean/.gradle/7.5.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squeaky-clean/.gradle/7.5.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squeaky-clean/.gradle/7.5.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squeaky-clean/.gradle/7.5.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squeaky-clean/.gradle/7.5.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squeaky-clean/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squeaky-clean/.gradle/7.5.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squeaky-clean/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squeaky-clean/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squeaky-clean/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squeaky-clean/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squeaky-clean/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squeaky-clean/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squeaky-clean/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squeaky-clean/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squeaky-clean/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squeaky-clean/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squeaky-clean/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squeaky-clean/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squeaky-clean/HINTS.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squeaky-clean/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squeaky-clean/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squeaky-clean/build/classes/java/main/SqueakyClean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squeaky-clean/build/classes/java/test/SqueakyCleanTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squeaky-clean/build/reports/tests/test/classes/SqueakyCleanTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squeaky-clean/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squeaky-clean/build/reports/tests/test/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squeaky-clean/build/reports/tests/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squeaky-clean/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squeaky-clean/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squeaky-clean/build/test-results/test/TEST-SqueakyCleanTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squeaky-clean/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squeaky-clean/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squeaky-clean/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squeaky-clean/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squeaky-clean/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squeaky-clean/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squeaky-clean/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squeaky-clean/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squeaky-clean/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squeaky-clean/src/main/java/SqueakyClean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squeaky-clean/src/test/java/SqueakyCleanTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/.exercism/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/.exercism/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/.gradle/7.5.1/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/.gradle/7.5.1/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/.gradle/7.5.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/.gradle/7.5.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/.gradle/7.5.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/.gradle/7.5.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/.gradle/7.5.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/.gradle/7.5.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/build/classes/java/main/Twofer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/build/classes/java/test/TwoferTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/build/reports/tests/test/classes/TwoferTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/build/reports/tests/test/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/build/reports/tests/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/build/test-results/test/TEST-TwoferTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/src/main/java/Twofer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../two-fer/src/test/java/TwoferTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MjePDfHaaDSt1u4Ix1D4pl7JCd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/macailh/exercism/java/acronym",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41574c38-1be7-4ae9-92e9-ec2ff318fc2c" name="Changes" comment="" />
+      <created>1678285393074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678285393074</updated>
+      <workItem from="1678285394097" duration="1734000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
